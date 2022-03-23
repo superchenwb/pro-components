@@ -1,5 +1,5 @@
 {
-  "name": "@ant-design/pro-layout",
+  "name": "@gui-one/pro-layout",
   "version": "6.34.5",
   "description": "@ant-design/pro-layout",
   "keywords": [
@@ -37,7 +37,7 @@
     "@ant-design/pro-provider": "1.6.1",
     "@ant-design/pro-utils": "1.37.1",
     "@babel/runtime": "^7.16.3",
-    "@umijs/route-utils": "^2.0.1",
+    "@umijs/route-utils": "^2.0.5",
     "@umijs/ssr-darkreader": "^4.9.44",
     "@umijs/use-params": "^1.0.9",
     "classnames": "^2.2.6",
